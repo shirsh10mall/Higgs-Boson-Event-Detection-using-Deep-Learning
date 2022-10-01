@@ -9,3 +9,7 @@ Based on these properties, the properties of the decayed parent particle are inf
 Particle colliders enable us to probe the fundamental nature of matter by observing exotic particles produced by high-energy collisions. Because the experimental measurements from these collisions are necessarily incomplete and imprecise, machine learning algorithms play a major role in the analysis of experimental data. The high-energy physics community typically relies on standardized machine learning software packages for this analysis and devotes substantial effort towards improving statistical power by hand-crafting high-level features derived from the raw collider measurements.
 
 With the given dataset, **we have to classify whether the given event was a signal or a background noise in the process of decay for Higgs particle acceleration.**
+
+
+Kaggle Notebook: https://www.kaggle.com/code/shirshmall/search-for-higgs-boson-decay-modes
+
